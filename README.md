@@ -4,6 +4,8 @@
 ```
 
   <code>
-    <del>some stricken code</del></br>
-    <del>A second line of stricken code</del>
-   <code>
+    <pre>
+      <del>some stricken code</del>
+      <del>A second line of stricken code</del>
+    </pre>
+  <code>
